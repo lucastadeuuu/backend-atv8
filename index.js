@@ -22,7 +22,7 @@ function (req, res){
 )
 
 const mensagens = [
-    "Elziele da Rocha", "Lucas Canova dos Santos", 0 
+    "Star Wars", "Guardiões da Galáxia", 0 
 ];
 
 app.get('/mensagens',
