@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/lucastadeuuu/backend-js.git"
+    "url": "git+https://github.com/lucastadeuuu/backend-atv8.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://https://github.com/lucastadeuuu/backend-js/issues"
+    "url": "https://github.com/lucastadeuuu/backend-atv8/issues"
   },
-  "homepage": "https://https://github.com/lucastadeuuu/backend-js#readme",
+  "homepage": "https://github.com/lucastadeuuu/backend-atv8#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
